@@ -1,0 +1,28 @@
+html {
+	min-height: 100%;
+	background: url("back.jpg") left top/cover;
+}
+h2 {
+	text-align: center;
+}
+.container {
+	background-color: #fff;
+	box-shadow: 0 0 10px #000;
+	width: 250px;
+	padding: 20px;
+	position: absolute;
+	top: 10%;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+}
+ul {
+	padding: 0;
+	margin-bottom: 40px;
+}
+li {
+	list-style-type: none;
+	height: 40px;
+	line-height: 40px;
+	border-bottom: 1px solid #ddd;
+}
